@@ -2,4 +2,4 @@
 
 This project is a landing page
 
-Open [https://google.com]("https://google.com")
+Open [https://ultraweb.netlify.app]("https://ikhsanweb.netlify.app")

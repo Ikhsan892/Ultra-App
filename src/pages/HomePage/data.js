@@ -11,7 +11,7 @@ export const homeObjOne = {
   lightText: true,
   topLine: "Marketing Agency",
   start: "",
-  img: "/images/svg-1.svg",
+  img: "/images/Previous/svg-1.svg",
   alt: "Image",
 };
 
@@ -28,7 +28,7 @@ export const homeObjTwo = {
   lightText: false,
   topLine: "Marketing Agency",
   start: "true",
-  img: "/images/profile.jpg",
+  img: "/images/Previous/profile.jpg",
   alt: "Image",
 };
 export const homeObjThree = {
@@ -44,7 +44,7 @@ export const homeObjThree = {
   lightText: true,
   topLine: "Marketing Agency",
   start: "",
-  img: "/images/svg-2.svg",
+  img: "/images/Previous/svg-2.svg",
   alt: "Image",
 };
 
@@ -61,6 +61,6 @@ export const homeObjFour = {
   lightText: true,
   topLine: "Marketing Agency",
   start: "",
-  img: "/images/svg-3.svg",
+  img: "/images/Previous/svg-3.svg",
   alt: "Image",
 };
